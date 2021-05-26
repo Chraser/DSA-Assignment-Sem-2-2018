@@ -1,0 +1,2 @@
+WA,237,Cowan,ALP,Australian Labor Party,28727,ALY,Anne,Y,N
+WA,238,Curtin,ALA,Australian Liberty Alliance,29170,ARCHIBALD,David,N,N

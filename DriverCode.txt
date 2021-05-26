@@ -1,0 +1,18 @@
+Run the program with java DSAAssignment and enter the following in terminal:
+1
+2
+ASP
+1
+1
+asp_Copy.csv
+2
+AS
+0
+1
+nameStartsWithAS_copy.csv
+3
+ALP
+1
+1
+ALP_withinMargin_6_copy.csv
+0
